@@ -32,7 +32,7 @@ Este proyecto es una aplicación de escritorio Java que permite convertir entre 
 
 2. Abra el archivo descargado y se ejecutara la aplicación.
 
-:tw-26a0:El único requisito para poder usar el ejecutable es tener Java Development Kit (JDK) instalado en su máquina.
+!! El único requisito para poder usar el ejecutable es tener Java Development Kit (JDK) instalado en su máquina. ¡¡
 
 #### 2. Clonar y Ejecutar Localmente
 
@@ -49,7 +49,7 @@ Este proyecto es una aplicación de escritorio Java que permite convertir entre 
 2. Luego ingrese  el tipo de moneda y el monto en el cuadro de texto.
 3. Elige el tipo de cambio y le da click al boton convertir.
 
-## :tw-26a0:Restricciones
+## Restricciones
 1. Solo se podran convertir valores numericos.
 2. Si se ingresa algun texto, el resultado sera un valor vacío.
 

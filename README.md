@@ -24,7 +24,7 @@ Este proyecto es una aplicación de escritorio Java que permite convertir entre 
 
 - **Git y GitHub:** Aprendí a gestionar versiones y colaborar en proyectos utilizando Git y GitHub. El proyecto está estructurado para facilitar la colaboración y el control de versiones.
 
-##Formas de obtener la aplicación
+## Formas de obtener la aplicación
 
 #### 1. Descargar archivo ejecutable .jar
 

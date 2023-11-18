@@ -36,12 +36,12 @@ Este proyecto es una aplicación de escritorio Java que permite convertir entre 
 
 #### 2. Clonar y Ejecutar Localmente
 
-1.2 Abre git bash y clona este repositorio en tu máquina local:
+1. Abre git bash y clona este repositorio en tu máquina local:
 `git clone https://github.com/Porico94/Proyecto-Conversor` 
 
-2.2 Abre el proyecto en tu IDE preferido (Eclipse, IntelliJ, etc.).
+2. Abre el proyecto en tu IDE preferido (Eclipse, IntelliJ, etc.).
 
-3.3 Ejecuta el archivo java `VentanaOperaciones` desde el IDE.
+3. Ejecuta el archivo java `VentanaOperaciones` desde el IDE.
 
 ## Modo de uso
 

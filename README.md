@@ -3,7 +3,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una aplicación de escritorio Java que permite convertir entre diferentes tipos de monedas y temperaturas segun elección y utiliza Java Swing para la interfaz gráfica.
+Es el primer challenge de BackEnd realizado en el Curso ONE de ORACLE consiste en una aplicación de escritorio Java que permite convertir entre diferentes tipos de monedas y temperaturas segun elección y utiliza Java Swing para la interfaz gráfica.
 
 ## Funcionalidades
 
